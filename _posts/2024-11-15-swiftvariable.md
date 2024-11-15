@@ -10,7 +10,7 @@ tags:
   - [Swift, iOS]
 
 toc: true
-toc-sticky: true
+toc_sticky: true
 ---
 
 >Swift에서 사용하는 변수에 대해서 알아보자.
