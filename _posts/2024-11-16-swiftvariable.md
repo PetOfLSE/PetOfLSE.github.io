@@ -1,4 +1,5 @@
 ---
+layout: single
 title:  "[Swift] - swift에서 사용되는 변수에 대해 알아보자."
 excerpt: "swift에서 프로그램을 짤때 . 왜 변수를 써야하는지 어떻게 사용하지는지에 대해서 알아보자 "
 
@@ -6,10 +7,6 @@ categories:
   - Swift
 tags:
   - [Swift, iOS]
-
-toc: true
-
-date: 2024-11-16
 ---
 
 >Swift에서 사용하는 변수에 대해서 알아보자.
