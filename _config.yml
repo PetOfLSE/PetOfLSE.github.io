@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "PetOfLSE"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : 
+  bio              : "Swift, Java, Spring, Vue.js 공부 blog"
   location         : "Korea"
   email            :
   links:
