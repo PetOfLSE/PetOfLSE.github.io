@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "LeeCode.log"
+title                    : "LeeCode Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "leecode"
@@ -115,9 +115,9 @@ analytics:
 author:
   name             : "PetOfLSE"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Keep Studying"
+  bio              : "스프링 백엔드와 Swift iOS 개발을 함께 공부하는 사람"
   location         : "Korea"
-  email            : 
+  email            :
   links:
     #- label: "Email"
      # icon: "fas fa-fw fa-envelope-square"
