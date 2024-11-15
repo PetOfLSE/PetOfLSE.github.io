@@ -11,7 +11,7 @@ toc: true
 toc_sticky: true
 ---
 
-![Swift Variable](https://raw.githubusercontent.com/PetOfLSE/PetOfLSE.github.io/main/assets/images/2024-11-15-swiftvariable.png)
+![2024-11-15-swiftvariable](https://github.com/user-attachments/assets/6bdbfc4e-83b0-4a63-b24b-5c5df5cde6c3)
 
 >Swift에서 사용하는 변수에 대해서 알아보자.
 
