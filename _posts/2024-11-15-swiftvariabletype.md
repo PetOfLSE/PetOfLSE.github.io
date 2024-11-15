@@ -11,6 +11,8 @@ toc: true
 toc_sticky: true
 ---
 
+![image](../assets/teaser/2024-11-15-swiftvariable.png)
+
 > Swift에서 사용되는 변수의 타입에 대해 알아보자.
 
 # 변수의 타입?

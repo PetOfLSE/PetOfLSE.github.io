@@ -11,6 +11,8 @@ toc: true
 toc_sticky: true
 ---
 
+![image](../assets/teaser/2024-11-15-swiftvariabletype.png)
+
 >Swift에서 사용하는 변수에 대해서 알아보자.
 
 ### 변수란 무엇일까??
