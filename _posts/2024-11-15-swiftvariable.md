@@ -6,8 +6,6 @@ header:
 
 categories:
   - swift
-tags:
-  - [Swift, iOS]
 
 toc: true
 toc_sticky: true
