@@ -12,7 +12,7 @@ main:
   #   url: /sitemap/
 
 sidebar-category:
-  - title: category
+  - title: "🍎 ios"
     children:
-      - title: "swift"
-        url: "/swift"
+      - title: "🦅 swift"
+        url: "/ios/swift"
