@@ -11,7 +11,7 @@ toc: true
 toc_sticky: true
 ---
 
-![Swift Variable Type](https://raw.githubusercontent.com/PetOfLSE/PetOfLSE.github.io/main/assets/images/2024-11-15-swiftvariabletype.png)
+![Swift Variable Type](https://github.com/PetOfLSE/PetOfLSE.github.io/blob/main/assets/images/2024-11-15-swiftvariabletype.png?raw=true)
 
 > Swift에서 사용되는 변수의 타입에 대해 알아보자.
 
@@ -19,7 +19,7 @@ toc_sticky: true
 이해하기 쉽게 예를 들어서 설명하겠다.
 
 분리수거를 한번 생각해보자.
-![Example Image](https://raw.githubusercontent.com/PetOfLSE/PetOfLSE.github.io/main/assets/images/2024-11-15-typeexample.png)
+![Example Image](https://github.com/PetOfLSE/PetOfLSE.github.io/blob/main/assets/images/2024-11-15-typeexample.png?raw=true)
 
 종이, 플라스틱, 캔, 유리 등 종류에 맞게 분류가 되어있고 종이에는 종이 쓰레기가 플라스틱에는 플라스틱 쓰레기가 들어가도록 용도가 정해져 있다.
 
