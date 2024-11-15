@@ -5,7 +5,8 @@ header:
   teaser: "/assets/teaser/2024-11-15-swiftvariable.png"
 
 categories:
-  - Swift
+  - ios
+  - swift
 tags:
   - [Swift, iOS]
 
