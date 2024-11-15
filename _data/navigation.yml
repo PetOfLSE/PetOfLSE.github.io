@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "HOME"
-    url: "/"
+  - title: "Home"
+    url: /
 
 sidebar-category:
-  - title: "🍎 ios"
+  - title: "category"
     children:
       - title: "🦅 swift"
-        url: "/ios/swift"
+        url: "/swift"
