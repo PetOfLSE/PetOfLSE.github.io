@@ -8,8 +8,7 @@ tags:
   - [Swift, iOS]
 
 toc: true
-toc_sticky: true
- 
+
 date: 2024-11-16
 ---
 
