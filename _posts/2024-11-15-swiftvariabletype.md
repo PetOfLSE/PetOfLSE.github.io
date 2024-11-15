@@ -11,7 +11,7 @@ toc: true
 toc_sticky: true
 ---
 
-![image](../assets/teaser/2024-11-15-swiftvariabletype.png)
+![](../images/2024-11-15-swiftvariabletype.png)
 
 > Swift에서 사용되는 변수의 타입에 대해 알아보자.
 
@@ -19,8 +19,7 @@ toc_sticky: true
 이해하기 쉽게 예를 들어서 설명하겠다.
 
 분리수거를 한번 생각해보자.
-![](https://velog.velcdn.com/images/leecode/post/5e615131-2bce-497c-b6c6-f9f11adee4dc/image.png)
-
+![](../images/typeexample.png)
 
 종이, 플라스틱, 캔, 유리 등 종류에 맞게 분류가 되어있고 종이에는 종이 쓰레기가 플라스틱에는 플라스틱 쓰레기가 들어가도록 용도가 정해져 있다.
 
