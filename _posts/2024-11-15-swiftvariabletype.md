@@ -2,7 +2,7 @@
 title:  "[Swift] - Swift에서 사용하는 데이터 타입에 대해서 알아보자."
 excerpt: "Swift에서 사용되는 데이터 타입의 종류와 사용법에 대해서 알아보자."
 header:
-  teaser: "/assets/teaser/2024-11-16-swiftvariabletype.png"
+  teaser: "/assets/teaser/2024-11-15-swiftvariabletype.png"
 
 categories:
   - swift
