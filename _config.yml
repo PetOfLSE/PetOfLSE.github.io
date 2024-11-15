@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "PetOfLSE"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "스프링 백엔드와 Swift iOS 개발을 함께 공부하는 사람"
+  bio              : 
   location         : "Korea"
   email            :
   links:
