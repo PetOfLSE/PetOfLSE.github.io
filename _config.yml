@@ -146,7 +146,6 @@ footer:
       url: "https://github.com/PetOfLSE"
     - label: "Icons by Flaticon"
         url: "https://www.flaticon.com/kr/free-icons/"
-        external: true
 
 # Reading Files
 include:
