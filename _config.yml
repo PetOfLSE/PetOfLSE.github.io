@@ -150,6 +150,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/PetOfLSE"
+    - title: "Icons by Flaticon"
+        url: "https://www.flaticon.com/kr/free-icons/"
+        external: true
 #    - label: "GitLab"
 #      icon: "fab fa-fw fa-gitlab"
       # url:
