@@ -148,7 +148,6 @@ footer:
         url: "https://www.flaticon.com/kr/free-icons/"
         external: true
 
-
 # Reading Files
 include:
   - .htaccess
