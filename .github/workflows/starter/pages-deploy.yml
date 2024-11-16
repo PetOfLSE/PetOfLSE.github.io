@@ -3,6 +3,10 @@ on:
   push:
     branches:
       - main
+<<<<<<< HEAD
+=======
+      - master
+>>>>>>> f2fadf0 (first commit message)
     paths-ignore:
       - .gitignore
       - README.md
